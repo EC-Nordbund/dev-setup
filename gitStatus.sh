@@ -1,0 +1,1 @@
+./runForAllSync.sh git status
