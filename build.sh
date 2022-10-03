@@ -4,4 +4,4 @@ rm -r -f ./dist
 cp -r ./dev-server/dist .
 cp -r ./verwaltung/dist ./dist/verwaltung
 cp -r ./login/dist ./dist/login
-cp -r ./leiter/dist ./dist/leiter
+cp -r ./leiter/dist ./dist/veranstaltung
